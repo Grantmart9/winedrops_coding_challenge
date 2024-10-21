@@ -18,7 +18,6 @@ import {
 } from "@mui/material";
 import axios from "axios";
 import { API_IP } from "components/API/API";
-import Loading from "Images/loading.gif";
 
 const buttonStyle = { bgcolor: "black", color: "white" };
 
